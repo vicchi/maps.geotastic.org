@@ -330,6 +330,24 @@ var places = [
 		lon: -81.631653
 	},
 	{
+		label: 'Fannys Cross, Devon, United Kingdom',
+		detail: 'Fanny\'s Lane, Crediton, Devon EX17, UK',
+		lat: 50.8108359,
+		lon: -3.6587001
+	},
+	{
+		label: 'Fanny Ho, Lancashire, United Kingdom',
+		detail: 'Old Fanny House, Oxcliffe Road, Heaton With Oxcliffe, Morecambe, Lancashire LA3 3EF, UK',
+		lat: 54.0523651,
+		lon: -2.8784493|6
+	},
+	{
+		label: 'Fanny Barks, Darlington, United Kingdom',
+		desc: 'Fanny Barks (Fox Covert), Darlington, UK',
+		lat: 54.5522,
+		lon: -1.68302
+	},	
+	{
 		label: 'Felch, Michigan (Dickinson), United States',
 		detail: 'Felch, MI 49831, USA',
 		lat: 45.997222,
