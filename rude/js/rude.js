@@ -480,6 +480,12 @@ var places = [
 		lon: -63.037202
 	},
 	{
+		label: 'Lord Herefords Knob, Powys, Wales',
+		detail: 'Lord Herefords Knob, Powys, Wales, UK',
+		lat: 52.0041,
+		lon: -3.1246
+	}
+	{
 		label: 'Meat Camp, North Carolina, United States',
 		detail: 'Meat Camp, NC 28684, USA',
 		lat: 36.299571,
