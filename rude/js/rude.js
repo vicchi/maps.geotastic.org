@@ -648,6 +648,12 @@ var places = [
 		lon: -94.9897109
 	},
 	{
+		label: 'Sandy Balls Estate, Hampshire, United Kingdom',
+		detail: 'Sandy Balls Estate, Godshill, Hampshire, United Kingdom',
+		lat: 50.930238,
+		lon: -1.760355
+	},	
+	{
 		label: 'Semen, Jawa Timur, Indonesia',
 		detail: 'Semen 64161, Indonesia',
 		lat: -7.834983,
