@@ -874,6 +874,13 @@ var places = [
 		detail: 'Woody, CA 93287, USA',
 		lat: 35.7041199,
 		lon: -118.834259
+	},
+
+    {
+		label: 'Andrews Knob, Cheshire, United Kingdom',
+		detail: 'Andrews Knob, Cheshire SK10, UK',
+		lat: 53.310622,
+		lon: - 2.062995
 	}
 ];
 
