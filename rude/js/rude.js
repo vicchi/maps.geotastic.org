@@ -183,8 +183,8 @@ var places = [
 		label: 'Cockfosters, London, United Kingdom',
 		detail: 'Cockfosters, United Kingdom',
 		lat: 51.651632,
-		lng: -0.149345
-	}
+		lon: -0.149345
+	},
 	{
 		label: 'Cocks, Perranporth, Cornwall, United Kingdom',
 		detail: 'Cocks Hill, Perranporth, Cornwall TR6, UK',
