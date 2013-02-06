@@ -408,6 +408,12 @@ var places = [
 		lon: 6.271175
 	},
 	{
+		label: 'Great Coxwell, Oxfordshire, United Kingdom',
+		detail: 'Great Coxwell, Oxfordshire SN7, UK',
+		lat: 51.64416,
+		lon: -1.61264
+	},
+	{
 		label: 'Hooker, Oklahoma',
 		detail: 'Hooker, OK 73945, USA',
 		lat: 36.8600261,
