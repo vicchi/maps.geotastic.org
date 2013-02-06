@@ -666,6 +666,18 @@ var places = [
 		lon: -119.2717761
 	},
 	{
+		label: 'Meatpacking District',
+		detail: 'Meatpacking District, New York, 10014, United States',
+		lat: 40.740879,
+		lon: -74.006508
+	},
+	{
+		label: 'Nob Hill, San Francisco',
+		detail: 'Nob Hill, San Francisco, California, United States',
+		lat: 37.793230,
+		lon: -122.414480
+	},
+	{
 		label: 'Shag Island, Indiana, United States',
 		detail: 'Shag Island, Hamilton, IN 46742, USA',
 		lat: 41.5483838,
