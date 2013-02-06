@@ -642,6 +642,12 @@ var places = [
 		lon: -88.6403889
 	},
 	{
+		label: 'Ringrash Road, Macosquin',
+		detail: 'Ringrash Road, Macosquin, Coleraine, Northern Ireland, BT51',
+		lat: 55.107248,
+		lon: -6.720629
+	},
+	{
 		label: 'Sac City, Iowa, United States',
 		detail: 'Sac City, IA 50583, USA',
 		lat: 42.4222033,
@@ -875,7 +881,7 @@ window.onload = function() {
 	var map = new L.Map("map", {
 		layers: layer
 	});
-	
+
 	var coords = [];
 	var markers = [];
 	var icon = new L.Icon({
@@ -894,7 +900,7 @@ window.onload = function() {
 		markers.push(mkr);
 		mkr.addTo(map);
 	}
-	
+
 	var bounds = new L.LatLngBounds(coords);
 	map.fitBounds(bounds);
 }
