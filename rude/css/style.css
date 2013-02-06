@@ -1,0 +1,42 @@
+body {
+	color: #fff;
+	background-color: #000;
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:link, a:visited {
+	color: #fff;
+}
+
+#header {
+	height: 5%;
+	font-size: 150%;
+}
+
+#map {
+	height: 90%;
+}
+#footer {
+	height: 5%;
+	padding-top: 10px;
+	font-size: 50%;
+}
+
+#credits {
+	float: left;
+}
+
+#attribution {
+	float: right;
+}
+.leaflet-popup-content {
+	color: #000;
+}
