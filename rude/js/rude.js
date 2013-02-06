@@ -793,7 +793,7 @@ var places = [
 	},
 	{
 		label: 'Two Mile Bottom, Norfolk, UK',
-		detail: 'Thetford Forest Park, Thetford, Norfolk IP24'
+		detail: 'Thetford Forest Park, Thetford, Norfolk IP24',
 		lat: 52.449288,
 		lon: 0.719812
 	},
