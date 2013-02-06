@@ -702,6 +702,12 @@ var places = [
 		lon: 20.516667
 	},
 	{
+		label: 'Sluts Hole Lane, Norfolk, UK',
+		detail: 'Sluts Hole Lane, Besthorpe, Norfolk, UK',
+		lat: 52.526353,
+		lon: 1.05256
+	},
+	{
 		label: 'Spear, Avery, North Carolina, United States',
 		detail: 'Spear, Plumtree, NC 28657, USA',
 		lat: 36.022347,
