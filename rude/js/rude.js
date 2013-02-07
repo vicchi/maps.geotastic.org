@@ -732,6 +732,12 @@ var places = [
 		lon: 53.557671
 	},
 	{
+		label: 'Shyte Brook, Shropshire, UK',
+		detail: 'Shyte Brook, Much Wenlock, Shropshire, UK',
+		lat: 52.60904,
+		lon: -2.54582
+	},
+	{
 		label: 'Slut, Vasterbotten, Sweden',
 		detail: 'Slut, Sweden',
 		lat: 64.733333,
