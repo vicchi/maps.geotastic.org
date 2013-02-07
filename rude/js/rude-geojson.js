@@ -1,3 +1,5 @@
+// CODE HEALTH WARNING ... GeoJSON point coordinates are long,lat and not lat,lon
+
 var places = {
 	"type": "FeatureCollection",
 	"features": [{
@@ -30,7 +32,19 @@ var places = {
 			"label": "Anus, Laguna, Philippines",
 			"detail": "Philippines"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [1.36211, 42.76365]
+		},
+		"properties": {
+			"label": "Cascade d'Ars, Pyrenees, France",
+			"detail": "La Cascade d'Ars, 09140 Aulus-les-Bains, France"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -40,7 +54,8 @@ var places = {
 			"label": "Arsoli, Lazio, Italy",
 			"detail": "00023 Arsoli Province of Rome, Italy"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -110,7 +125,8 @@ var places = {
 			"label": "Bell End, Worcestershire, United Kingdom",
 			"detail": "Bell End, Worcestershire DY9, UK"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -120,7 +136,41 @@ var places = {
 			"label": "Big Beaver, Pennsylvania, United States",
 			"detail": "Big Beaver, PA, USA"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [124.4198243, 6.5069401]
+		},
+		"properties": {
+			"label": "Bollock, Sultan Kudarat, Philippines",
+			"detail": "Bollock, Sultan Kudarat, Philippines"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-4.3448, 57.89152]
+		},
+		"properties": {
+			"label": "Bonar Bridge, Scotland, United Kingdom",
+			"detail": "Bonar Bridge, Highland, IV24, Scotland, United Kingdom"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-63.24915, 17.62605]
+		},
+		"properties": {
+			"label": "The Bottom, Saba, Caribbean Netherlands",
+			"detail": "The Bottom, Saba, Caribbean Netherlands"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -670,7 +720,8 @@ var places = {
 			"label": "Fucking, Tarsdorf, Austria",
 			"detail": "5121 Fucking, Austria"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -680,7 +731,8 @@ var places = {
 			"label": "Fuku, Shensi, China",
 			"detail": "Shaanxi, China"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -690,7 +742,19 @@ var places = {
 			"label": "Fukue, Nagoya, Aichi Prefecture, Japan",
 			"detail": "Fukue, Showa Ward, Nagoya, Aichi Prefecture, Japan"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [130.402, 33.5903]
+		},
+		"properties": {
+			"label": "Fukuoke, Fukuoka Prefecture, Japan",
+			"detail": "Fukuoke, Fukuoka Prefecture, Japan"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1340,7 +1404,8 @@ var places = {
 			"label": "Tit, Tamanghasset, Algeria",
 			"detail": "Tit, Algeria"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1350,7 +1415,19 @@ var places = {
 			"label": "Tittybong, Australia",
 			"detail": "Tittybong VIC 3542, Australia"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [133.465, 33.7649]
+		},
+		"properties": {
+			"label": "Tosa District, Kochi Prefecture, Japan",
+			"detail": "Tosa District, Kochi Prefecture, Japan"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
