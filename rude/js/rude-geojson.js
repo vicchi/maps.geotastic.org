@@ -1224,6 +1224,16 @@ var places = {
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
+			"coordinates": [-2.54582, 52.60904]
+		},
+		"properties": {
+			"label": "Shyte Brook, Shropshire, UK",
+			"detail": "Shyte Brook, Much Wenlock, Shropshire, UK"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
 			"coordinates": [20.516667, 64.733333]
 		},
 		"properties": {
