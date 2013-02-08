@@ -1420,11 +1420,33 @@ var places = {
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
+			"coordinates": [133.838196, 33.458943]
+		},
+		"properties": {
+			"label": "Tosa Bay, Kochi Prefecture, Japan",
+			"detail": "Tosa Bay, Kochi Prefecture, Japan"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
 			"coordinates": [133.465, 33.7649]
 		},
 		"properties": {
 			"label": "Tosa District, Kochi Prefecture, Japan",
 			"detail": "Tosa District, Kochi Prefecture, Japan"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-6.27183, 53.76101]
+		},
+		"properties": {
+			"label": "Termonfeckin, Co. Louth, Ireland",
+			"detail": "Termonfeckin, Co. Louth, Ireland"
 		}
 	},
 	{
@@ -1437,7 +1459,8 @@ var places = {
 			"label": "Twatt, Orkney, Scotland, United Kingdom",
 			"detail": "Twatt, Orkney, Orkney Islands KW17, UK"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1507,7 +1530,19 @@ var places = {
 			"label": "Wank, Bayern (OstallgÃ¤u, Nesselwang), Germany",
 			"detail": "Wank, 87484 Nesselwang, Germany"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.76434, 45.30235]
+		},
+		"properties": {
+			"label": "Wankers Corner Saloon and Cafe, Wilsonville, Oregon, United States",
+			"detail": "Wankers Corner Saloon and Cafe, Wilsonville, OR 97070, USA"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1517,7 +1552,8 @@ var places = {
 			"label": "Wankie, Zimbabwe",
 			"detail": "Hwange, Zimbabwe"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1547,7 +1583,19 @@ var places = {
 			"label": "Wet Beaver Creek, Lake Montezuma, AZ, United States",
 			"detail": "Wet Beaver Creek, Lake Montezuma, AZ 86335, USA"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.8234, 51.16000]
+		},
+		"properties": {
+			"label": "Wilsford cum Lake, Salisbury, United Kingdom",
+			"detail": "Wilsford cum Lake, Salisbury, United Kingdom"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1557,7 +1605,8 @@ var places = {
 			"label": "Woody, Cumberland, Tennessee, United States",
 			"detail": "Woody, Tennessee 38571, USA"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
