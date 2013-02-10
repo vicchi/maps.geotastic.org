@@ -1636,5 +1636,17 @@ var places = {
 			"label": "Andrews Knob, Cheshire, United Kingdom",
 			"detail": "Andrews Knob, Cheshire SK10, UK"
 		}
-	}]
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [0.306606, 52.188157]
+		},
+		"properties": {
+			"label": "Six Mile Bottom, Cambridgeshire, United Kingdom",
+			"detail": "Six Mile Bottom, Cambridgeshire, CB8, UK"
+		}
+	}
+	
+	]
 };
