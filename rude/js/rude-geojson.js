@@ -1,4 +1,4 @@
-// CODE HEALTH WARNING ... GeoJSON point coordinates are long,lat and not lat,lon
+// CODE HEALTH WARNING ... GeoJSON point coordinates are long,lat and not lat,long
 
 var places = {
 	"type": "FeatureCollection",
@@ -95,7 +95,19 @@ var places = {
 			"label": "Beaver, West Virginia, United States",
 			"detail": "Beaver, WV, USA"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-82.3603, 37.3152]
+		},
+		"properties": {
+			"label": "Beaver Bottom, Kentucky, United States",
+			"detail": "Beaver Bottom, KY 41522, USA"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -105,7 +117,8 @@ var places = {
 			"label": "Beaver Crossing, Nebraska, United States",
 			"detail": "Beaver Crossing, NE 68313, USA"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -115,7 +128,19 @@ var places = {
 			"label": "Beaver Head, Idaho, United States",
 			"detail": "Beaverhead, MT, USA"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.6947, 38.8789]
+		},
+		"properties": {
+			"label": "Beaverlick, Kentucky, United States",
+			"detail": "Beaverlick, KY, USA"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -135,6 +160,39 @@ var places = {
 		"properties": {
 			"label": "Big Beaver, Pennsylvania, United States",
 			"detail": "Big Beaver, PA, USA"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.7497, 38.8828]
+		},
+		"properties": {
+			"label": "Big Bone Lick State Park, Union, Kentucky, United States",
+			"detail": "Big Bone Lick State Park, Union, KY, USA"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [7.4274, 49.0502]
+		},
+		"properties": {
+			"label": "Bitche, France",
+			"detail": "Bitche, France"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [124.4198243, 6.5069401]
+		},
+		"properties": {
+			"label": "Blue Ball, Pennsylvania, United States",
+			"detail": "Blue Ball, PA, USA"
 		}
 	},
 	{
@@ -168,6 +226,17 @@ var places = {
 		"properties": {
 			"label": "The Bottom, Saba, Caribbean Netherlands",
 			"detail": "The Bottom, Saba, Caribbean Netherlands"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-4.4861, 48.3901]
+		},
+		"properties": {
+			"label": "Brest, France",
+			"detail": "Brest, France"
 		}
 	},
 	{
@@ -260,7 +329,8 @@ var places = {
 			"label": "Climax, Colorado, United States",
 			"detail": "Climax, CO 80461, USA"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -270,7 +340,19 @@ var places = {
 			"label": "Climax, Polk County, Minnesota, United States",
 			"detail": "Climax, MN 56523, USA"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.3358, 42.2382]
+		},
+		"properties": {
+			"label": "Climax, Michigan, United States",
+			"detail": "Climax, MI 49034, USA"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -370,7 +452,19 @@ var places = {
 			"label": "Cocks, Perranporth, Cornwall, United Kingdom",
 			"detail": "Cocks Hill, Perranporth, Cornwall TR6, UK"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.19649, 51.23141]
+		},
+		"properties": {
+			"label": "Cockshot Road, Reigate, Surrey, United Kingdom",
+			"detail": "Cockshot Road, Reigate, Surrey, RH2, United Kingdom"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -380,7 +474,19 @@ var places = {
 			"label": "Condom, Aveyron, Midi-PyrÃ©nÃ©es, France",
 			"detail": "Condom, 12470 Condom-d'Aubrac, France"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.8034, 42.3509]
+		},
+		"properties": {
+			"label": "Coxsackie, New York, United States",
+			"detail": "Coxsackie, NY, USA"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -497,7 +603,7 @@ var places = {
 			"coordinates": [-53.5501881, 47.5753541]
 		},
 		"properties": {
-			"label": "Dildo, Trinity Bay, Newfoundland",
+			"label": "Dildo, Trinity Bay, Newfoundland, Canada",
 			"detail": "The Salvation Army Trinity Bay South Corps, Newfoundland and Labrador 80, Dildo, NL A0B 1P0, Canada"
 		}
 	}, {
@@ -570,7 +676,30 @@ var places = {
 			"label": "Dump Ln, Yallahs, St Thomas Parish, Jamaica",
 			"detail": "Yallahs, Jamaica"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.6613, -20.6158]
+		},
+		"properties": {
+			"label": "East Intercourse Island, Western Australia, Australia",
+			"detail": "East Intercourse Island, Western Australia, Australia"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.6681, -20.6678]
+		},
+		"properties": {
+			"label": "East Mid Intercourse Island, Western Australia, Australia",
+			"detail": "East Mid Intercourse Island, Western Australia, Australia"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -580,7 +709,8 @@ var places = {
 			"label": "Effin, Limerick, Republic of Ireland",
 			"detail": "Effin, Co. Limerick, Ireland"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -590,7 +720,19 @@ var places = {
 			"label": "Erect, Randolph County, North Carolina, United States",
 			"detail": "Erect, NC 27316, USA"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [132.334, -2.835]
+		},
+		"properties": {
+			"label": "Fakfak, West Papua, Indonesia",
+			"detail": "Fakfak, West Papua, Indonesia"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -600,7 +742,8 @@ var places = {
 			"label": "Fanny, West Virginia (Wyoming), United States",
 			"detail": "Fanny, WV 24818, USA"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -690,7 +833,19 @@ var places = {
 			"label": "Finger, McNairy, Tennessee, United States",
 			"detail": "Finger, TN 38334, USA"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.87367, 38.32429]
+		},
+		"properties": {
+			"label": "Floyds Knobs, Indiana, United States",
+			"detail": "Floyds Knobs, IN 47119, USA"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -784,7 +939,19 @@ var places = {
 			"label": "Gland, Switzerland",
 			"detail": "Gland, Switzerland"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.19212, 39.19090]
+		},
+		"properties": {
+			"label": "Gnaw Bone, Washington, India, United States",
+			"detail": "Gnaw Bone, IN 47448, USA"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -794,7 +961,8 @@ var places = {
 			"label": "Great Coxwell, Oxfordshire, United Kingdom",
 			"detail": "Great Coxwell, Oxfordshire SN7, UK"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -864,7 +1032,19 @@ var places = {
 			"label": "Intercourse, Pennsylvania, USA",
 			"detail": "Intercourse, PA, USA"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.6462, -20.6521]
+		},
+		"properties": {
+			"label": "Intercourse Island, Western Australia, Australia",
+			"detail": "Intercourse Island, Western Australia, Australia"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -884,7 +1064,19 @@ var places = {
 			"label": "Labia, Waremme, Liege, Belgium",
 			"detail": "Rue de Labia, 4317 Faimes, Belgium"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-69.523, -15.771]
+		},
+		"properties": {
+			"label": "Lake Titicaca, Puno Region, Peru",
+			"detail": "Lake Titicaca, Puno Region, Peru"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -894,7 +1086,8 @@ var places = {
 			"label": "Lickey End, West Midlands, United Kingdom",
 			"detail": "Lickey End, Worcestershire, UK"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -914,7 +1107,19 @@ var places = {
 			"label": "Lord Herefords Knob, Powys, Wales",
 			"detail": "Lord Herefords Knob, Powys, Wales, UK"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [0.2231, 50.88010]
+		},
+		"properties": {
+			"label": "Lower Dicker, East Sussex, United Kingdom",
+			"detail": "Lower Dicket, East Sussex, BN27, UK"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -964,7 +1169,19 @@ var places = {
 			"label": "MingÄ—, KlaipÄ—da County, Lithuania",
 			"detail": "MingÄ— 99360, Lithuania"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-2.21647, 52.05963]
+		},
+		"properties": {
+			"label": "Minge Lane, Upton upon Severn, Worcester, Worcestershire, United Kingdom",
+			"detail": "Minge Lane, Upton upon Severn, Worcester, Worcestershire, WR8 0LS, United Kingdom"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -974,7 +1191,8 @@ var places = {
 			"label": "Moorhead, Clay County, Minnesota, United States",
 			"detail": "Moorhead, MN, USA"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1194,7 +1412,19 @@ var places = {
 			"label": "Sandy Balls Estate, Hampshire, United Kingdom",
 			"detail": "Sandy Balls Estate, Godshill, Hampshire, United Kingdom"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.654, 53.5884]
+		},
+		"properties": {
+			"label": "Scunthorpe, North Lincolnshire, United Kingdom",
+			"detail": "Scunthorpe, North Lincolnshire, United Kingdom"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1204,7 +1434,8 @@ var places = {
 			"label": "Semen, Jawa Timur, Indonesia",
 			"detail": "Semen 64161, Indonesia"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1274,7 +1505,8 @@ var places = {
 			"label": "Shag Point, Otago, New Zealand",
 			"detail": "Shag Point, New Zealand"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1284,7 +1516,19 @@ var places = {
 			"label": "Shit, Mazandaran, Iran",
 			"detail": "Shit, Iran"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-2.22424, 50.75466]
+		},
+		"properties": {
+			"label": "Shitterton, Bere Regis, Dorset, United Kingdom",
+			"detail": "Shitterton, Bere Regis, Dorset, BH20, UK"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1334,7 +1578,8 @@ var places = {
 			"label": "Spear, Big Horn, Montana, United States",
 			"detail": "Spear, Montana 59050, USA"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1344,7 +1589,19 @@ var places = {
 			"label": "Spurt, Belgium",
 			"detail": "9220 Spurt, Belgium"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-53.6132, 47.53856]
+		},
+		"properties": {
+			"label": "Spread Eagle, Newfoundland, Canada",
+			"detail": "Spread Eagle, NL A0B, Canada"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1354,7 +1611,8 @@ var places = {
 			"label": "Stiff, Bretagne (Finistere, Ouessant), France",
 			"detail": "Le Stiff, 29242 Ushant, France"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1480,7 +1738,19 @@ var places = {
 			"label": "Two Mile Bottom, Norfolk, UK",
 			"detail": "Thetford Forest Park, Thetford, Norfolk IP24"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [0.21318, 50.87187]
+		},
+		"properties": {
+			"label": "Upper Dicker, East Sussex, United Kingdom",
+			"detail": "Upper Dicket, East Sussex, BN27, UK"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1490,7 +1760,8 @@ var places = {
 			"label": "Vagina, Tyumenskaya oblast, Russia",
 			"detail": "Vagina, Tyumen Oblast, Russia"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1573,7 +1844,30 @@ var places = {
 			"label": "Wankum, Germany",
 			"detail": "Wankum, 47669 Wachtendonk, Germany"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.6141, -20.7005]
+		},
+		"properties": {
+			"label": "West Intercourse Island, Western Australia, Australia",
+			"detail": "West Intercourse Island, Western Australia, Australia"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.6570, -20.6757]
+		},
+		"properties": {
+			"label": "West Mid Intercourse Island, Western Australia, Australia",
+			"detail": "West Mid Intercourse Island, Western Australia, Australia"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
