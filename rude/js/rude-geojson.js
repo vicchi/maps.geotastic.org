@@ -1322,7 +1322,19 @@ var places = {
 			"label": "Poo, Himachal, India",
 			"detail": "Poo, Himachal Pradesh, India"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [0.11171, 51.33980]
+		},
+		"properties": {
+			"label": "Pratt's Bottom, Orpington, London, United Kingdom",
+			"detail": "Pratt's Bottom, Orpington, Greater London, BR6, UK"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
@@ -1332,7 +1344,8 @@ var places = {
 			"label": "Probe, Utah (Salt Lake), Salt lake City",
 			"detail": "Probe, Sandy, UT 84094, USA"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
