@@ -1143,6 +1143,16 @@ var places = {
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
+			"coordinates": [-8.0875, 53.173056]
+		},
+		"properties": {
+			"label": "Meelick, County Galway, Republic of Ireland",
+			"detail": "Meelick, Co. Galway, Ireland"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
 			"coordinates": [-73.5912362, 41.0439859]
 		},
 		"properties": {
