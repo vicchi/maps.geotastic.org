@@ -1548,7 +1548,19 @@ var places = {
 			"label": "Shyte Brook, Shropshire, UK",
 			"detail": "Shyte Brook, Much Wenlock, Shropshire, UK"
 		}
-	}, {
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [0.306606, 52.188157]
+		},
+		"properties": {
+			"label": "Six Mile Bottom, Cambridgeshire, United Kingdom",
+			"detail": "Six Mile Bottom, Cambridgeshire, CB8, UK"
+		}
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
