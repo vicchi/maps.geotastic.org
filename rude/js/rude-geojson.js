@@ -59,13 +59,25 @@ var places = {
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
+			"coordinates": [-72.224, 42.593]
+		},
+		"properties": {
+			"label": "Athol, Massachusetts, United States",
+			"detail": "Athol, MA, USA"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
 			"coordinates": [-91.5679114, 35.3098066]
 		},
 		"properties": {
 			"label": "Bald Knob, Arkansas, United States",
 			"detail": "Bald Knob, AR, USA"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
