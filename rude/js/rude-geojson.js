@@ -189,6 +189,17 @@ var places = {
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
+			"coordinates": [-78.18214, 40.03861]
+		},
+		"properties": {
+			"label": "Bird in Hand, Philadelphia, United States",
+			"detail": "Bird in Hand, PA 17505, USA"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
 			"coordinates": [7.4274, 49.0502]
 		},
 		"properties": {
@@ -340,6 +351,17 @@ var places = {
 		"properties": {
 			"label": "Climax, Colorado, United States",
 			"detail": "Climax, CO 80461, USA"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.4313, 30.8759]
+		},
+		"properties": {
+			"label": "Climax, Georgia, United States",
+			"detail": "Climax, GA 39834, USA"
 		}
 	},
 	{
@@ -616,7 +638,7 @@ var places = {
 		},
 		"properties": {
 			"label": "Dildo, Trinity Bay, Newfoundland, Canada",
-			"detail": "The Salvation Army Trinity Bay South Corps, Newfoundland and Labrador 80, Dildo, NL A0B 1P0, Canada"
+			"detail": "Dildo, Newfoundland and Labrador 80, Dildo, NL A0B 1P0, Canada"
 		}
 	}, {
 		"type": "Feature",
@@ -1929,6 +1951,17 @@ var places = {
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
+			"coordinates": [-0.5788, 54.01929]
+		},
+		"properties": {
+			"label": "Wetwang, Yorkshire, United Kingdom",
+			"detail": "Wetwang, East Riding of Yorkshire, YO25, UK"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
 			"coordinates": [-1.8234, 51.16000]
 		},
 		"properties": {
@@ -1967,7 +2000,8 @@ var places = {
 			"label": "Woody, Kern, California, United States",
 			"detail": "Woody, CA 93287, USA"
 		}
-	}, {
+	},
+	{
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
