@@ -2011,5 +2011,16 @@ var places = {
 			"label": "Andrews Knob, Cheshire, United Kingdom",
 			"detail": "Andrews Knob, Cheshire SK10, UK"
 		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.2211, 51.505]
+		},
+		"properties": {
+			"label": "Shepherds Bush, Greater London, United Kingdom",
+			"detail": "Shepherds Bush, Greater London, UK"
+		}
 	}]
 };
