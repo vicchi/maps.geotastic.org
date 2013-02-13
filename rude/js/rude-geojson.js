@@ -4,7 +4,7 @@
 // When adding new places, don't create an "id" property ... this is done by ../tools/assign-ids.php
 
 var places = {
-    "last_id": "192",
+    "last_id": "194",
     "type": "FeatureCollection",
     "features": [
         {
@@ -2886,6 +2886,30 @@ var places = {
                 "detail": "Andrews Knob, Cheshire SK10, UK",
                 "id": "192"
             }
-        }
+        },
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.2211, 51.505]
+			},
+			"properties": {
+				"label": "Shepherds Bush, Greater London, United Kingdom",
+				"detail": "Shepherds Bush, Greater London, UK",
+				"id": "193"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [147.90389,-37.68351]
+			},
+			"properties": {
+				"label": "Spanker Knob, Victoria, Australia",
+				"detail": "Spanker Knob, Victoria, Australia",
+				"id": "194"
+			}
+		}
     ]
 };
