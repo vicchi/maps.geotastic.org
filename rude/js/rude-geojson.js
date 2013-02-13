@@ -4,7 +4,7 @@
 // When adding new places, don't create an "id" property ... this is done by ../tools/assign-ids.php
 
 var places = {
-    "last_id": "194",
+    "last_id": "195",
     "type": "FeatureCollection",
     "features": [
         {
@@ -2909,6 +2909,18 @@ var places = {
 				"label": "Spanker Knob, Victoria, Australia",
 				"detail": "Spanker Knob, Victoria, Australia",
 				"id": "194"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [46.333333, 8]
+			},
+			"properties": {
+				"label": "Bitsch, Valais, Switzerland",
+				"detail": "Bitsch, Valais, Switzerland",
+				"id": "195"
 			}
 		}
     ]
