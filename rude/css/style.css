@@ -4,6 +4,10 @@ body {
 	font-family: sans-serif;
 }
 
+p {
+	color: #000;
+}
+
 a {
 	text-decoration: none;
 }
@@ -37,6 +41,11 @@ a:link, a:visited {
 #attribution {
 	float: right;
 }
-.leaflet-popup-content {
+
+.rude-place-popup, .rude-place-popup a {
 	color: #000;
+}
+
+.rude-place-popup a {
+	font-size: 75%;
 }
