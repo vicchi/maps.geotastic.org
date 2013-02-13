@@ -13,9 +13,9 @@ $(document).ready(function() {
 	L.geoJson(places, {
 		onEachFeature: function(feature, layer) {
 			if (feature.properties && feature.properties.label) {
+				var permalink = RudePlacesMap.server_name + '?id=' + feature.properties.id;
 				var popup = '<div class="rude-place-popup">';
 				popup += '<p>' + feature.properties.label + '</p>';
-				var permalink = RudePlacesMap.server_name + '?id=' + feature.properties.id;
 				popup += '<p><a href="' + permalink + '">Permalink to this place ...</a></p>';
 				popup += '</div>';
 				layer.bindPopup(popup);
@@ -36,6 +36,11 @@ $(document).ready(function() {
 		if (markers.hasOwnProperty(RudePlacesMap.place_id)) {
 			map.setView(markers[RudePlacesMap.place_id].getLatLng(), 7);
 			markers[RudePlacesMap.place_id].openPopup();
+		}
+		
+		else {
+			var bounds = new L.LatLngBounds(coords);
+			map.fitBounds(bounds);
 		}
 	}
 
