@@ -297,8 +297,8 @@ var places = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    124.4198243,
-                    6.5069401
+                    -76.0482,
+                    40.1183
                 ]
             },
             "properties": {
