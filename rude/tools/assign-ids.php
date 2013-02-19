@@ -3,7 +3,7 @@
 $file = '../js/rude.json';
 $raw = file_get_contents($file);
 $json = json_decode($raw);
-if ($json !== NULL {
+if ($json !== NULL) {
 	$id = 0;
 	if (isset($json->last_id)) {
 		$id = intval($json->last_id);
