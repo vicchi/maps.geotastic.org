@@ -6,9 +6,15 @@ $(document).ready(function() {
 		iconSize: [32, 37]
 	});
 	var tiles = new L.StamenTileLayer("toner");
-	var map = new L.Map("map", {
+	var options = {
 		layers: tiles
-	});
+	};
+
+	if (RudePlacesMap.hasOwnProperty('mobile') && RudePlacesMap.mobile) {
+		options.zoomControl = false;
+	}
+
+	var map = new L.Map("map", options);
 	
 	L.geoJson(places, {
 		onEachFeature: function(feature, layer) {
@@ -47,5 +53,8 @@ $(document).ready(function() {
 	else {
 		var bounds = new L.LatLngBounds(coords);
 		map.fitBounds(bounds);
+		if (RudePlacesMap.hasOwnProperty('mobile') && RudePlacesMap.mobile) {
+			map.zoomIn();
+		}
 	}
 });

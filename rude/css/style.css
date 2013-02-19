@@ -25,6 +25,12 @@ a:link, a:visited {
 	font-size: 150%;
 }
 
+@media only screen and (max-device-width: 480px) {
+	#header {
+		font-size: 100%;
+	}
+}
+
 #map {
 	height: 90%;
 }
