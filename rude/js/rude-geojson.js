@@ -4,7 +4,7 @@
 // When adding new places, don't create an "id" property ... this is done by ../tools/assign-ids.php
 
 var places = {
-    "last_id": "194",
+    "last_id": "201",
     "type": "FeatureCollection",
     "features": [
         {
@@ -2887,29 +2887,140 @@ var places = {
                 "id": "192"
             }
         },
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [-0.2211, 51.505]
-			},
-			"properties": {
-				"label": "Shepherds Bush, Greater London, United Kingdom",
-				"detail": "Shepherds Bush, Greater London, UK",
-				"id": "193"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [147.90389,-37.68351]
-			},
-			"properties": {
-				"label": "Spanker Knob, Victoria, Australia",
-				"detail": "Spanker Knob, Victoria, Australia",
-				"id": "194"
-			}
-		}
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2211,
+                    51.505
+                ]
+            },
+            "properties": {
+                "label": "Shepherds Bush, Greater London, United Kingdom",
+                "detail": "Shepherds Bush, Greater London, UK",
+                "id": "193"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.90389,
+                    -37.68351
+                ]
+            },
+            "properties": {
+                "label": "Spanker Knob, Victoria, Australia",
+                "detail": "Spanker Knob, Victoria, Australia",
+                "id": "194"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.4976,
+                    -33.3432
+                ]
+            },
+            "properties": {
+                "label": "The Entrance, New South Wales, Australia",
+                "detail": "The Entrance, NSW 2261, Australia",
+                "id": "195"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.845,
+                    -33.7714
+                ]
+            },
+            "properties": {
+                "label": "Rooty Hill, New South Wales, Australia",
+                "detail": "Rooty Hill, NSW, Australia",
+                "id": "196"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.9675,
+                    -31.263
+                ]
+            },
+            "properties": {
+                "label": "Delicate Knobby Camping Ground, Crescent Head, New South Wales, Australia",
+                "detail": "Delicate Knobby Camping Ground, Crescent Head, NSW 2440, Australia",
+                "id": "197"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.633333,
+                    -37.133333
+                ]
+            },
+            "properties": {
+                "label": "Mount Buggery, Victoria, Australia",
+                "detail": "Mount Buggery, Victoria, Australia",
+                "id": "198"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.155,
+                    -32.733
+                ]
+            },
+            "properties": {
+                "label": "Iron Kob, South Australia, Australia",
+                "detail": "Iron Knob, SA 5601, Australia",
+                "id": "199"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.52,
+                    -30.821
+                ]
+            },
+            "properties": {
+                "label": "Koolyanobbing, Western Australia, Australia",
+                "detail": "Koolyanobbing, WA 6427, Australia",
+                "id": "200"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.8248,
+                    -12.4287
+                ]
+            },
+            "properties": {
+                "label": "Fannie Bay, Northern Territory, Australia",
+                "detail": "Fannie Bay, Northern Territory, Australia",
+                "id": "201"
+            }
+        }
     ]
 };
