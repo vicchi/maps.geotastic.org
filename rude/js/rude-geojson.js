@@ -4,7 +4,7 @@
 // When adding new places, don't create an "id" property ... this is done by ../tools/assign-ids.php
 
 var places = {
-    "last_id": "201",
+    "last_id": "236",
     "type": "FeatureCollection",
     "features": [
         {
@@ -2987,7 +2987,7 @@ var places = {
                 ]
             },
             "properties": {
-                "label": "Iron Kob, South Australia, Australia",
+                "label": "Iron Knob, South Australia, Australia",
                 "detail": "Iron Knob, SA 5601, Australia",
                 "id": "199"
             }
@@ -3020,6 +3020,531 @@ var places = {
                 "label": "Fannie Bay, Northern Territory, Australia",
                 "detail": "Fannie Bay, Northern Territory, Australia",
                 "id": "201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8162263,
+                    47.9127713
+                ]
+            },
+            "properties": {
+                "label": "Fannie Bay, Northern Territory, Australia",
+                "detail": "Fannie Bay, Northern Territory, Australia",
+                "id": "202"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8162263,
+                    47.9127713
+                ]
+            },
+            "properties": {
+                "label": "Petting, Germany",
+                "detail": "Petting, Germany",
+                "id": "203"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5916827,
+                    34.6969407
+                ]
+            },
+            "properties": {
+                "label": "Kinki Expressway, Osaka Prefecture, Japan",
+                "detail": "Kinki Expressway, Osaka Prefecture, Japan",
+                "id": "204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0325721,
+                    48.7673652
+                ]
+            },
+            "properties": {
+                "label": "Horn\u00ed Plan\u00e1, Czech Republic",
+                "detail": "Horn\u00ed Plan\u00e1, Czech Republic",
+                "id": "205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8075965,
+                    50.1386421
+                ]
+            },
+            "properties": {
+                "label": "Horn\u00ed Slavkov, Czech Republic",
+                "detail": "Horn\u00ed Slavkov, Czech Republic",
+                "id": "206"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5471845,
+                    50.5731
+                ]
+            },
+            "properties": {
+                "label": "Horn\u00ed Ji\u0159et\u00edn, Czech Republic",
+                "detail": "Horn\u00ed Ji\u0159et\u00edn, Czech Republic",
+                "id": "207"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5602688,
+                    42.8714814
+                ]
+            },
+            "properties": {
+                "label": "Bastardo, Province of Perugia, Italy",
+                "detail": "Bastardo, Province of Perugia, Italy",
+                "id": "208"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4267719,
+                    51.0055657
+                ]
+            },
+            "properties": {
+                "label": "Titz, Germany",
+                "detail": "Titz, Germany",
+                "id": "209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3801739,
+                    48.7260112
+                ]
+            },
+            "properties": {
+                "label": "Tittling, Germany",
+                "detail": "Tittling, Germany",
+                "id": "210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6936632,
+                    47.4849228
+                ]
+            },
+            "properties": {
+                "label": "Hard, Austria",
+                "detail": "Hard, Austria",
+                "id": "211"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.8548625,
+                    -32.1259283
+                ]
+            },
+            "properties": {
+                "label": "Cockburn Central WA 6164, Australia",
+                "detail": "Cockburn Central WA 6164, Australia",
+                "id": "212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.346154,
+                    53.1638205
+                ]
+            },
+            "properties": {
+                "label": "Weener, Germany",
+                "detail": "Weener, Germany",
+                "id": "213"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6930424,
+                    53.8632464
+                ]
+            },
+            "properties": {
+                "label": "Cuxhaven, Germany",
+                "detail": "Cuxhaven, Germany",
+                "id": "214"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.99231,
+                    47.02888
+                ]
+            },
+            "properties": {
+                "label": "6444 Winkle, Austria",
+                "detail": "6444 Winkle, Austria",
+                "id": "215"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.747172,
+                    55.497204
+                ]
+            },
+            "properties": {
+                "label": "5500 Middelfart, Denmark",
+                "detail": "5500 Middelfart, Denmark",
+                "id": "216"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2784958,
+                    52.7766724
+                ]
+            },
+            "properties": {
+                "label": "Butthole Lane, Shepshed, Loughborough, Leicestershire LE12 9BN, UK",
+                "detail": "Butthole Lane, Shepshed, Loughborough, Leicestershire LE12 9BN, UK",
+                "id": "217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7373582,
+                    37.9635374
+                ]
+            },
+            "properties": {
+                "label": "Bumpass, VA, USA",
+                "detail": "Bumpass, VA, USA",
+                "id": "218"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4401935,
+                    43.5081323
+                ]
+            },
+            "properties": {
+                "label": "Split, Croatia",
+                "detail": "Split, Croatia",
+                "id": "219"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2634258,
+                    34.3280291
+                ]
+            },
+            "properties": {
+                "label": "Little Pee Dee State Park, 1298 State Park Road, Dillon, SC 29536, USA",
+                "detail": "Little Pee Dee State Park, 1298 State Park Road, Dillon, SC 29536, USA",
+                "id": "220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5431592,
+                    52.1893036
+                ]
+            },
+            "properties": {
+                "label": "Bastardstown, Co. Wexford, Ireland",
+                "detail": "Bastardstown, Co. Wexford, Ireland",
+                "id": "221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.274289,
+                    39.913731
+                ]
+            },
+            "properties": {
+                "label": "Alipa\u015fa Mh., Ar\u00e7elik Sokak, 25070 Erzurum, Turkey",
+                "detail": "Alipa\u015fa Mh., Ar\u00e7elik Sokak, 25070 Erzurum, Turkey",
+                "id": "222"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4654694,
+                    46.967818
+                ]
+            },
+            "properties": {
+                "label": "Bern Wankdorf, Unter-Wankdorf, 3014 Berne, Switzerland",
+                "detail": "Bern Wankdorf, Unter-Wankdorf, 3014 Berne, Switzerland",
+                "id": "223"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9635602,
+                    46.7225341
+                ]
+            },
+            "properties": {
+                "label": "Crap, 7173 Sumvitg, Switzerland",
+                "detail": "Crap, 7173 Sumvitg, Switzerland",
+                "id": "224"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7249169,
+                    45.746821
+                ]
+            },
+            "properties": {
+                "label": "Craponne, France",
+                "detail": "Craponne, France",
+                "id": "225"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.516515,
+                    39.604225
+                ]
+            },
+            "properties": {
+                "label": "Beaver Creek, CO 81620, USA",
+                "detail": "Beaver Creek, CO 81620, USA",
+                "id": "226"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0878444,
+                    42.0183083
+                ]
+            },
+            "properties": {
+                "label": "17257 Llabi\u00e0, Girona, Spain",
+                "detail": "17257 Llabi\u00e0, Girona, Spain",
+                "id": "227"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.1970691,
+                    -28.5507089
+                ]
+            },
+            "properties": {
+                "label": "Blue Knob NSW 2480, Australia",
+                "detail": "Blue Knob NSW 2480, Australia",
+                "id": "228"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3565521,
+                    53.2339649
+                ]
+            },
+            "properties": {
+                "label": "Sodom, Denbighshire LL16, UK",
+                "detail": "Sodom, Denbighshire LL16, UK",
+                "id": "229"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.4691766,
+                    45.5962234
+                ]
+            },
+            "properties": {
+                "label": "Upper Spunk Lake, Minnesota 56310, USA",
+                "detail": "Upper Spunk Lake, Minnesota 56310, USA",
+                "id": "230"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.4668841,
+                    45.6069609
+                ]
+            },
+            "properties": {
+                "label": "Middle Spunk Lake, Minnesota 56310, USA",
+                "detail": "Middle Spunk Lake, Minnesota 56310, USA",
+                "id": "231"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.4578258,
+                    45.6167812
+                ]
+            },
+            "properties": {
+                "label": "Lower Spunk Lake, Minnesota 56310, USA",
+                "detail": "Lower Spunk Lake, Minnesota 56310, USA",
+                "id": "232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6103824,
+                    47.609764
+                ]
+            },
+            "properties": {
+                "label": "Big Dick Lake, Chippewa National Forest, Marcell, MN 56657, USA",
+                "detail": "Big Dick Lake, Chippewa National Forest, Marcell, MN 56657, USA",
+                "id": "233"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6192861,
+                    47.6144082
+                ]
+            },
+            "properties": {
+                "label": "Little Dick Lake, Chippewa National Forest, Marcell, MN 56657, USA",
+                "detail": "Little Dick Lake, Chippewa National Forest, Marcell, MN 56657, USA",
+                "id": "234"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.396938,
+                    40.362996
+                ]
+            },
+            "properties": {
+                "label": "Pe\u00f1\u00edscola, Castell\u00f3n, Spain",
+                "detail": "Pe\u00f1\u00edscola, Castell\u00f3n, Spain",
+                "id": "235"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7689081,
+                    48.0581177
+                ]
+            },
+            "properties": {
+                "label": "Tittmoning, Germany",
+                "detail": "Tittmoning, Germany",
+                "id": "236"
             }
         }
     ]
