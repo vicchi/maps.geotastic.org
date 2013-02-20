@@ -3546,6 +3546,21 @@ var places = {
                 "detail": "Tittmoning, Germany",
                 "id": "236"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.098254,
+                    135.571289,
+                ]
+            },
+            "properties": {
+                "label": "Kinki University, Osaka, Japan",
+                "detail": "Kinki University, Osaka, Japan",
+                "id": "237"
+            }
         }
     ]
 };
