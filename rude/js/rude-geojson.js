@@ -4,7 +4,7 @@
 // When adding new places, don't create an "id" property ... this is done by ../tools/assign-ids.php
 
 var places = {
-    "last_id": "241",
+    "last_id": "243",
     "type": "FeatureCollection",
     "features": [
         {
@@ -3621,8 +3621,36 @@ var places = {
                 "detail": "Blowhard, VIC 3352, Australia",
                 "id": "241"
             }
+        },
+		{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.098254,
+                    135.571289,
+                ]
+            },
+            "properties": {
+                "label": "Kinki University, Osaka, Japan",
+                "detail": "Kinki University, Osaka, Japan",
+                "id": "242"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.65123,
+                    135.587042
+                ]
+            },
+            "properties": {
+                "label": "Mt Aso, Kurokawa, Aso, Kumamoto Prefecture, Japan",
+                "detail": "Mt Aso, Kurokawa, Aso, Kumamoto Prefecture, Japan",
+                "id": "243"
+            }            
         }
-
-
     ]
 };
