@@ -4,7 +4,7 @@
 // When adding new places, don't create an "id" property ... this is done by ../tools/assign-ids.php
 
 var places = {
-    "last_id": "236",
+    "last_id": "241",
     "type": "FeatureCollection",
     "features": [
         {
@@ -3546,6 +3546,83 @@ var places = {
                 "detail": "Tittmoning, Germany",
                 "id": "236"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0097,
+                    46.3369
+                ]
+            },
+            "properties": {
+                "label": "Bitsch, Switzerland",
+                "detail": "Bitsch, Switzerland",
+                "id": "237"
+            }
+        },
+		{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6442,
+                    31.2263
+                ]
+            },
+            "properties": {
+                "label": "Longdong Avenue, Shanghai, China",
+                "detail": "Longdong Avenue, Pu Dong Xin Qu, Shanghai, China",
+                "id": "238"
+            }
         }
+		{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.518970,
+                    54.030562
+                ]
+            },
+            "properties": {
+                "label": "Hackballs Cross, Co. Louth, Ireland",
+                "detail": "Hackballs Cross, Co. Louth, Ireland",
+                "id": "239"
+            }
+        },
+		{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.7209,
+                    -16.8118
+                ]
+            },
+            "properties": {
+                "label": "Yorkey's Knob, Queensland, Australia",
+                "detail": "Yorkey's Knob, QLD 4878, Australia",
+                "id": "240"
+            }
+        },
+		{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.786,
+                    -37.4310
+                ]
+            },
+            "properties": {
+                "label": "Blowhard, Victoria, Queensland, Australia",
+                "detail": "Blowhard, VIC 3352, Australia",
+                "id": "241"
+            }
+        }
+
+
     ]
 };
