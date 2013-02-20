@@ -8,6 +8,9 @@ require_once('Mobile_Detect.php');
 	<title>Maps | Vaguely Rude</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5/leaflet.css" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5/leaflet.ie.css" />
+	<![endif]-->
 	<link rel="stylesheet" href="css/style.css" type="text/css" />
 	<script src="http://cdn.leafletjs.com/leaflet-0.5/leaflet.js"></script>
 	<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.2.1"></script>
