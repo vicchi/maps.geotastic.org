@@ -2177,7 +2177,7 @@ var places = {
                 ]
             },
             "properties": {
-                "label": "Shaft, Pennsylvania, United States",
+                "label": "Shaft, Maryland, United States",
                 "detail": "Borden Shaft, MD 21532, USA",
                 "id": "145"
             }
