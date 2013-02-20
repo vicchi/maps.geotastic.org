@@ -3576,7 +3576,7 @@ var places = {
                 "detail": "Longdong Avenue, Pu Dong Xin Qu, Shanghai, China",
                 "id": "238"
             }
-        }
+        },
 		{
             "type": "Feature",
             "geometry": {
@@ -3617,7 +3617,7 @@ var places = {
                 ]
             },
             "properties": {
-                "label": "Blowhard, Victoria, Queensland, Australia",
+                "label": "Blowhard, Victoria, Australia",
                 "detail": "Blowhard, VIC 3352, Australia",
                 "id": "241"
             }
@@ -3627,8 +3627,8 @@ var places = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.098254,
-                    135.571289,
+                	135.5870,
+                    34.6511
                 ]
             },
             "properties": {
@@ -3642,8 +3642,8 @@ var places = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.65123,
-                    135.587042
+                	131.08411,
+                    32.88691
                 ]
             },
             "properties": {
