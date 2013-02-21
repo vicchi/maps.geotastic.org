@@ -4,7 +4,7 @@
 // When adding new places, don't create an "id" property ... this is done by ../tools/assign-ids.php
 
 var places = {
-    "last_id": "244",
+    "last_id": "252",
     "type": "FeatureCollection",
     "features": [
         {
@@ -3182,8 +3182,8 @@ var places = {
                 ]
             },
             "properties": {
-                "label": "Cockburn Central WA 6164, Australia",
-                "detail": "Cockburn Central WA 6164, Australia",
+                "label": "Cockburn, Central WA 6164, Australia",
+                "detail": "Cockburn, Central WA 6164, Australia",
                 "id": "212"
             }
         },
@@ -3666,6 +3666,127 @@ var places = {
                 "detail": "Feltham, Greater London, United Kingdom",
                 "id": "244"
             }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	9.384,
+                    53.4500
+                ]
+            },
+            "properties": {
+                "label": "Brest, Germany",
+                "detail": "Brest, Germany",
+                "id": "245"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	-9.3226,
+                    54.03666
+                ]
+            },
+            "properties": {
+                "label": "Cum, Co. Mayo, Ireland",
+                "detail": "Cum, Co. Mayo, Ireland",
+                "id": "246"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	0.9450,
+                    51.84368
+                ]
+            },
+            "properties": {
+                "label": "Fingringhoe, Essex, United Kingdom",
+                "detail": "Fingringhoe, Essex, CO5, United Kingdom",
+                "id": "247"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	-2.3930,
+                    53.8705
+                ]
+            },
+            "properties": {
+                "label": "Clitheroe, Lancashire, United Kingdom",
+                "detail": "Clitheroe, Lancashire, BB7, United Kingdom",
+                "id": "248"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	-0.7528,
+                    50.95042
+                ]
+            },
+            "properties": {
+                "label": "Cocking, West Sussex, United Kingdom",
+                "detail": "Cocking, West Sussex, GU29, United Kingdom",
+                "id": "249"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	-122.8062,
+                    45.4864
+                ]
+            },
+            "properties": {
+                "label": "Beaverton, Oregon, United States",
+                "detail": "Beaverton, OR, United States",
+                "id": "250"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	1.09955,
+                    51.2031
+                ]
+            },
+            "properties": {
+                "label": "Lynsore Bottom, Kent, United Kingdom",
+                "detail": "Lynsore Bottom, Kent, United Kingdom",
+                "id": "251"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	13.72628,
+                    47.99737
+                ]
+            },
+            "properties": {
+                "label": "Wankham, Austria",
+                "detail": "Wankham, Austria",
+                "id": "252"
+            }            
         }
+
     ]
 };
