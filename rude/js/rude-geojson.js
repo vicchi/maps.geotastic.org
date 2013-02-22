@@ -3786,6 +3786,34 @@ var places = {
                 "detail": "Wankham, Austria",
                 "id": "252"
             }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	47.564444, -53.549167
+                ]
+            },
+            "properties": {
+                "label": "Dildo, Newfoundland, Canada",
+                "detail": "Dildo, Newfoundland, Canada",
+                "id": "253"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	45.9, -64.366667
+                ]
+            },
+            "properties": {
+                "label": "Sackville, New Brunswick, Canada",
+                "detail": "Sackville, New Brunswick, Canada",
+                "id": "254"
+            }            
         }
 
     ]
