@@ -1,0 +1,64 @@
+body {
+	color: #000;
+	background-color: #FFF;
+	font-family: sans-serif;
+}
+
+p {
+	color: #FFF;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:link, a:visited {
+	color: #000;
+}
+
+#header {
+	height: 5%;
+	font-size: 150%;
+	/*position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 999;*/
+}
+
+@media only screen and (max-device-width: 480px) {
+	#header {
+		font-size: 100%;
+	}
+}
+
+#map {
+	height: 90%;
+}
+#footer {
+	height: 5%;
+	padding-top: 10px;
+	font-size: 50%;
+	/*position: absolute;
+	bottom: 0;*/
+}
+
+#credits {
+	float: left;
+}
+
+#attribution {
+	float: right;
+}
+
+.checkin-popup, .checkin-popup a {
+	color: #000;
+}
+
+.checkin-popup a {
+	font-size: 75%;
+}

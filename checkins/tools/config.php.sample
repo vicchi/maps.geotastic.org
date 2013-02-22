@@ -1,0 +1,8 @@
+<?php
+
+$config['hostname'] = 'localhost';
+$config['user'] = 'user';
+$config['password'] = 'password';
+$config['database'] = 'privatesquare';
+
+?>
