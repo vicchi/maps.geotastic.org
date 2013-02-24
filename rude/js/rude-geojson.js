@@ -3787,6 +3787,20 @@ var places = {
                 "id": "252"
             }            
         }
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	-36.86417,
+                    147.35059
+                ]
+            },
+            "properties": {
+                "label": "Hollonds Knob, Australia",
+                "detail": "Hollonds Knob, Australia",
+            }            
+        }
 
     ]
 };
