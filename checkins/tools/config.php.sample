@@ -1,8 +1,16 @@
 <?php
 
+# Edit the database hostname, username, password and database name
+# to match your privatesquare instance.
+
 $config['hostname'] = 'localhost';
 $config['user'] = 'user';
 $config['password'] = 'password';
 $config['database'] = 'privatesquare';
+
+# Edit to match the user id your Foursquare account has in privatesquare. If you're the
+# sole user, you can probably leave this unchanged (see the users table)
+
+$config['userid'] = 1;
 
 ?>
