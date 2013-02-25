@@ -19,6 +19,13 @@ $(document).ready(function() {
 		onEachFeature: function(feature, layer) {
 			var popup = '<div class="checkin-popup">';
 			popup += feature.properties.name;
+			popup += '&nbsp;('
+			if (feature.properties.checkins > 1) {
+				popup += feature.properties.checkins + ' checkins)';
+			}
+			else {
+				popup += '1 checkin)';
+			}
 			popup += '</div>';
 			layer.bindPopup(popup);
 			layer.on('click', function(e) {
