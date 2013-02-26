@@ -29,3 +29,5 @@ Now change to the `tools` directory and run the `extract-checkins.php` script.
 If all goes well and there's no problems accessing the database, this script will create a Javascript file, containing all your checkins in GeoJSON format as `js/checkins-geojson.js`. It's probably a good idea to check that this file exists and isn't empty.
 
 The GeoJSON will contain all of your checkins from your privatesquare instance at the time that you run `extract-checkins.php`; you might want to add this to your `crontab`, if your web host permits this, to run regularly and create a (relatively) up-to-date set of checkin information.
+
+Meanwhile, here's a [blog post](http://www.vicchi.org/2013/02/26/you-were-here-mapping-the-places-ive-been-to-according-to-foursquare/), which may or may not explain this.
