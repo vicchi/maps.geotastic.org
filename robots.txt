@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /css/
+Disallow: /images/
+Disallow: /jquery/
+Disallow: /jquery-backstretch/
+Disallow: /mobile-detect/
+
+Disallow: /checkins/css/
+Disallow: /checkins/js/
+Disallow: /checkins/tools/
+
+Disallow: /great-british-map/css/
+Disallow: /great-british-map/data/
+Disallow: /great-british-map/js/
+
+Disallow: /rude/css/
+Disallow: /rude/js/
+Disallow: /rude/tools/
