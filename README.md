@@ -6,11 +6,11 @@ This Git repository contains the source for the `maps.geotastic.org` domain. Not
 
 ## Vaguely Rude Place Names Map
 
-You'll find the source for this in the `/rude` sub-directory. Fork, contribute, share and enjoy.
+This now lives in its own repository, see https://github.com/vicchi/vaguely-rude-places
 
 ## You Were Here; Places I've Been To According To Foursquare
 
-You'll find the source for this in the `/checkins` sub-directory. Map your own Foursquare checkin history via `privatesquare`.
+This now lives in its own repository, see https://github.com/vicchi/you-were-here
 
 ## Notes
 
