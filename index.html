@@ -5,10 +5,13 @@
 	<title>maps.geotastic.org</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<link rel="stylesheet" type="text/css" href="/css/styles.css" />
-	<script type="text/javascript" src="/jquery/1.6.2/jquery-1.6.2.min.js"></script>
-	<script type="text/javascript" src="jquery-backstretch/1.2.5/jquery.backstretch.min.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.1.1.min.js"></script>
+	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.3/jquery.backstretch.min.js"></script>
 	<script type="text/javascript">
-	$.backstretch("/images/geotastic-mono-trans.jpg");
+	$(document).ready(function() {
+		$.backstretch("/images/geotastic-mono-trans.jpg");
+	});
 	</script>
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
@@ -53,6 +56,9 @@
 	<div id="footer">
 		<div id="credits">
 			<a href="/">More Maps</a>. This is a code thing by <a href="http://www.garygale.com/" target="_blank">Gary Gale</a>, made out of HTML, CSS and jQuery.
+		</div>
+		<div id="attribution">
+			&copy; <a href="http://www.garygale.com/" target="_blank">Gary Gale</a>; content licensed under <a href="http://creativecommons.org/licenses/by/3.0" target="_blank">CC BY 3.0</a>; code licensed under a <a href="http://opensource.org/licenses/BSD-2-Clause" target="_blank">BSD license</a>.
 		</div>
 	</div>
 </body>

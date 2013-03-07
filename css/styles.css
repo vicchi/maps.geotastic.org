@@ -204,3 +204,7 @@ blockquote:after {
 #credits {
 	float: left;
 }
+
+#attribution {
+	float: right;
+}
